@@ -1,0 +1,15 @@
+{
+    "editor.quickSuggestions": {
+        "comments": "off",
+        "strings": "off",
+        "other": "off"
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.parameterHints.enabled": false,
+
+    // C/C++拡張の補完をオフ
+    "C_Cpp.intelliSenseEngine": "Disabled",
+
+    // エラー表示だけ残す
+    "C_Cpp.errorSquiggles": "enabled"
+}
